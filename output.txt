@@ -1,0 +1,70 @@
+tap pattern selected = 33
+initial LFSR_state = 20
+`@``@@```@@@````@@@@`````@@@@@`````@@@@@@
+preamble_length =   7
+          0 bench msg: _ 5f 7f  dut msg: 7f    very nice!
+          1 bench msg: _ 5f 5e ^ dut msg: 5e    very nice!
+          2 bench msg: _ 5f 5c \ dut msg: 5c    very nice!
+          3 bench msg: _ 5f 58 X dut msg: 58    very nice!
+          4 bench msg: _ 5f 50 P dut msg: 50    very nice!
+          5 bench msg: _ 5f 40 @ dut msg: 40    very nice!
+          6 bench msg: _ 5f 60 ` dut msg: 60    very nice!
+          7 bench msg: ` 60 5e ^ dut msg: 5e    very nice!
+          8 bench msg: @ 40 7d } dut msg: 7d    very nice!
+          9 bench msg: ` 60 5a Z dut msg: 5a    very nice!
+         10 bench msg: ` 60 55 U dut msg: 55    very nice!
+         11 bench msg: @ 40 6a j dut msg: 6a    very nice!
+         12 bench msg: @ 40 55 U dut msg: 55    very nice!
+         13 bench msg: ` 60 4b K dut msg: 4b    very nice!
+         14 bench msg: ` 60 76 v dut msg: 76    very nice!
+         15 bench msg: ` 60 4c L dut msg: 4c    very nice!
+         16 bench msg: @ 40 59 Y dut msg: 59    very nice!
+         17 bench msg: @ 40 73 s dut msg: 73    very nice!
+         18 bench msg: @ 40 66 f dut msg: 66    very nice!
+         19 bench msg: ` 60 6d m dut msg: 6d    very nice!
+         20 bench msg: ` 60 7b { dut msg: 7b    very nice!
+         21 bench msg: ` 60 57 W dut msg: 57    very nice!
+         22 bench msg: ` 60 4e N dut msg: 4e    very nice!
+         23 bench msg: @ 40 5d ] dut msg: 5d    very nice!
+         24 bench msg: @ 40 7b { dut msg: 7b    very nice!
+         25 bench msg: @ 40 76 v dut msg: 76    very nice!
+         26 bench msg: @ 40 6d m dut msg: 6d    very nice!
+         27 bench msg: ` 60 7a z dut msg: 7a    very nice!
+         28 bench msg: ` 60 54 T dut msg: 54    very nice!
+         29 bench msg: ` 60 49 I dut msg: 49    very nice!
+         30 bench msg: ` 60 72 r dut msg: 72    very nice!
+         31 bench msg: ` 60 44 D dut msg: 44    very nice!
+         32 bench msg: @ 40 49 I dut msg: 49    very nice!
+         33 bench msg: @ 40 53 S dut msg: 53    very nice!
+         34 bench msg: @ 40 67 g dut msg: 67    very nice!
+         35 bench msg: @ 40 4e N dut msg: 4e    very nice!
+         36 bench msg: @ 40 5c \ dut msg: 5c    very nice!
+         37 bench msg: ` 60 58 X dut msg: 58    very nice!
+         38 bench msg: ` 60 51 Q dut msg: 51    very nice!
+         39 bench msg: ` 60 42 B dut msg: 42    very nice!
+         40 bench msg: ` 60 65 e dut msg: 65    very nice!
+         41 bench msg: ` 60 6b k dut msg: 6b    very nice!
+         42 bench msg: @ 40 57 W dut msg: 57    very nice!
+         43 bench msg: @ 40 6f o dut msg: 6f    very nice!
+         44 bench msg: @ 40 5e ^ dut msg: 5e    very nice!
+         45 bench msg: @ 40 7c | dut msg: 7c    very nice!
+         46 bench msg: @ 40 79 y dut msg: 79    very nice!
+         47 bench msg: @ 40 72 r dut msg: 72    very nice!
+         48 bench msg: _ 5f 7a z dut msg: 7a    very nice!
+         49 bench msg: _ 5f 55 U dut msg: 55    very nice!
+         50 bench msg: _ 5f 4b K dut msg: 4b    very nice!
+         51 bench msg: _ 5f 77 w dut msg: 77    very nice!
+         52 bench msg: _ 5f 4e N dut msg: 4e    very nice!
+         53 bench msg: _ 5f 7c | dut msg: 7c    very nice!
+         54 bench msg: _ 5f 59 Y dut msg: 59    very nice!
+         55 bench msg: _ 5f 53 S dut msg: 53    very nice!
+         56 bench msg: _ 5f 47 G dut msg: 47    very nice!
+         57 bench msg: _ 5f 6f o dut msg: 6f    very nice!
+         58 bench msg: _ 5f 7e ~ dut msg: 7e    very nice!
+         59 bench msg: _ 5f 5d ] dut msg: 5d    very nice!
+         60 bench msg: _ 5f 5b [ dut msg: 5b    very nice!
+         61 bench msg: _ 5f 57 W dut msg: 57    very nice!
+         62 bench msg: _ 5f 4f O dut msg: 4f    very nice!
+         63 bench msg: _ 5f 7f  dut msg: 7f    very nice!
+original message  = _______`@``@@```@@@````@@@@`````@@@@@`````@@@@@@________________
+encrypted message = ^\XP@`^}ZUjUKvLYsfm{WN]{vmzTIrDISgN\XQBekWo^|yrzUKwN|YSGo~][WO 
